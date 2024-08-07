@@ -1,8 +1,12 @@
 ---
 title: "Mapper HD"
 author: "Paul Pearson"
-date: "July 2, 2015"
+date: "`r format(Sys.time(), '%d %B, %Y')`"
 output: html_document
+vignette: >
+  %\VignetteEngine{knitr::rmarkdown}
+  %\VignetteIndexEntry{Mapper HD}
+  %\VignetteEncoding{UTF-8}
 ---
 
 # level set flat index to level set multi-index function
