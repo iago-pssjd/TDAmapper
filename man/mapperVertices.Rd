@@ -9,6 +9,9 @@ mapperVertices(m, pt_labels)
 \arguments{
 \item{m}{An object of class TDAmapper that is the output of the mapper 
 function.}
+
+\item{pt_labels}{Point labels for vertices. Character class or coercible
+to character}
 }
 \value{
 A data frame describing the vertices in the graph of the mapper 
