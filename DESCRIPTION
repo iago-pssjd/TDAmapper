@@ -11,7 +11,7 @@ Description: Topological Data Analysis using Mapper (discrete Morse theory).
     codomain R, while the the function mapper2D uses a filter function with
     codomain R^2.
 Title: Analyze High-Dimensional Data Using Discrete Morse Theory
-Date: 2024-08-17
+Date: 2024-09-24
 Authors@R: c(person("Paul", "Pearson", email = "pearsonp@hope.edu", role = c("aut", "cre", "trl", "cph")),
              person("Daniel", "Muellner", role = c("aut","ctb")),
              person("Gurjeet","Singh", role = c("aut","ctb")),
